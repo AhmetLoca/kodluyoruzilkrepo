@@ -15,7 +15,7 @@ git clone https://github.com/AhmetLoca/kodluyoruzilkrepo.git
 ## Usage
 
 ### Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
+--------
 
 ## Contributing
 
